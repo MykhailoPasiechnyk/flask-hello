@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  Flask-Chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-12-06T15:29:49.8590088Z"
+    description: Test Flask chart for Kubernetes
+    digest: cf99c782a1add599b1400182d82409451edb1e13a36e5b54c6756cadcaa016a2
+    name: Flask-Chart
+    type: application
+    urls:
+    - Flask-Chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-06T15:29:49.855420297Z"
